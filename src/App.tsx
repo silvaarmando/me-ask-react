@@ -1,11 +1,11 @@
-import React from 'react';
+import {
+  Button
+} from "./components/Button";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h2>Me Ask React</h2>
-      </header>
+      <Button />
     </div>
   );
 }
