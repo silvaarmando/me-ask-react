@@ -1,8 +1,16 @@
 <h1
   align="center"
 >
-  Me Ask React
+  <img
+    src="./src/assets/images/logo.svg"
+  >
 </h1>
+
+<h3
+  align="center"
+>
+  Reactjs Web application created in the Next Level Week special edition - Together NLW promoted by <a href="https://rocketseat.com.br/">Rocketseat</a> on the React.js track given by CTO and instructor <a href="https://github.com/diego3g">Diego Fernandes</a>
+</h3>
 
 <br
 />
@@ -39,18 +47,38 @@
 <br
 />
 
+
+<h2
+  align="center"
+>
+  <img
+    height="450px"
+    src="./screenReadme/file04.svg"
+  >
+</h2>
+<br
+/>
+
 ## Building the project
+
+<br
+/>
 
 <h3
 >
   Development Environment
 </h3>
+
 <br
 />
 
 <p>
   Our development environment just needs some tools
 </p>
+
+<br
+/>
+
 <div
 >
   <span>
@@ -137,29 +165,30 @@ In a SPA (Single Page Application) it happens differently, the data is passed by
 
 <p
 >
-  O Firebase é uma feramenta desenvolvida pela Google e tem como a principal proposta oferecer um serviço de backend completo em uma única aplicação (BaaS). Então por que utiiza-lo?
-
+  Firebase is a tool developed by Google and its main proposal is to offer a complete backend service in a <a href="https://en.wikipedia.org/wiki/Banking_as_a_service">single application (BaaS)</a>. So why are we going to use it?
 <br
 />
 
 <img
   width="300px"
-  src="./screenReadme/file03.gif"
+  src="./screenReadme/file05.webp"
 />
+</p>
 <br
 />
 
 <p
 >
-  :white_check_mark: Fácil e rápido de utilizar por iniciantes.
+  :white_check_mark: Easy and fast to use for beginners.
 
-  :white_check_mark: Servicos de Autenticação.
+  :white_check_mark: Authentication Services.
 
-  :white_check_mark: banco de dados com gerenciamento diferenciado.
+  :white_check_mark: database with differentiated management (Data Management System).
 </p>
 
-Acesse <a href="https://console.firebase.google.com/">aqui</a> e já começe a utilizar.
-
+<p>
+  Go to <a href="https://console.firebase.google.com/">here</a> and get started.
+</p>
 <br
 />
 
@@ -173,7 +202,7 @@ Acesse <a href="https://console.firebase.google.com/">aqui</a> e já começe a u
 
 <p
 >
-  Os principais conceitos sobre React.js são <strong>Componentes</strong>, <strong>Propriedades</strong> e <strong>Estado</strong>. Eu tive a curiosidade em me aprofundar mais no assunto e li um artigo antigo da Rocketseat mais que dá uma base sobre o React. <a href="https://blog.rocketseat.com.br/react-do-zero-componentizacao-propriedades-e-estado/">Link aqui</a>.
+  The main concepts about React.js are <strong>Components</strong>, <strong>Properties</strong> and <strong>State</strong>. I was curious to delve deeper into the subject and read an old Rocketseat article that gives more background on React. <a href="https://blog.rocketseat.com.br/react-do-zero-componentizacao-propriedades-e-estado/">Link here</a>.
 </p>
 
 <br
@@ -181,8 +210,47 @@ Acesse <a href="https://console.firebase.google.com/">aqui</a> e já começe a u
 
 ## Screens
 
+<br
+/>
+
+<p
+>
+The first feature was to create an application in firebase and create authentication and access.
+</p>
+
+<br
+/>
+
+<h1
+>
+  <img
+    width="750px"
+    src="./screenReadme/file03.gif"
+  >
+</h1>
+
+<br
+/>
+
 ## Layout
 
+<br
+/>
+
+<p
+>
+The original layout of the application was created by the UI Designer <a href="https://dribbble.com/rebeccagonzalez">Rebecca Gonzalez</a> and can be found at this <a href="https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate"> link </a> to the figma.
+</p>
+
+<br
+/>
+
 ## Technologies
+
+<br
+/>
+
+<br
+/>
 
 ## About me
