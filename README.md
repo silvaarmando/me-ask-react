@@ -1,11 +1,11 @@
-<h2
+<h1
   align="center"
 >
   <img
     width="auto"
     src="./src/assets/images/logo.svg"
   >
-</h2>
+</h1>
 
 <h3
   align="center"
