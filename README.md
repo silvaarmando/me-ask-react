@@ -1,15 +1,16 @@
-<h1
+<h2
   align="center"
 >
   <img
+    width="auto"
     src="./src/assets/images/logo.svg"
   >
-</h1>
+</h2>
 
 <h3
   align="center"
 >
-  Reactjs Web application created in the Next Level Week special edition - Together NLW promoted by <a href="https://rocketseat.com.br/">Rocketseat</a> on the React.js track given by CTO and instructor <a href="https://github.com/diego3g">Diego Fernandes</a>
+  Reactjs Web application created in the Next Level Week special edition - Together NLW promoted by <a href="https://rocketseat.com.br/">Rocketseat</a> on the React.js track given by CTO and instructor <a href="https://github.com/diego3g">Diego Shell Fernandes</a>
 </h3>
 
 <br
