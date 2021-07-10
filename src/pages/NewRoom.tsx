@@ -1,32 +1,28 @@
+// import {
+//   useContext
+// } from 'react';
+
 import {
-  useHistory
+  Link
 } from 'react-router-dom';
 
 import illustrationImg from '../assets/images/illustration.svg';
 import logoImg from '../assets/images/logo.svg';
-import googleIconImg from '../assets/images/google-icon.svg';
 
 import {
   Button
 } from '../components//Button';
+// import {
+//   AuthContext
+// } from '../contexts/AuthContext';
 
-import '../styles/auth.scss'
-import { useAuth } from '../hooks/useAuth';
+import '../styles/auth.scss';
 
-export function Home() {
-  const history = useHistory();
-  const {
-    user,
-    signInWithGoogle
-  } = useAuth();
+export function NewRoom() {
+  // const {
+  //   user
+  // } = useContext(AuthContext);
 
-  async function handleCreateRoom() {
-    if (!user) {
-      await signInWithGoogle()
-    }
-
-    history.push('/rooms/new');
-  }
   return (
     <div
       id="page-auth"
@@ -35,7 +31,7 @@ export function Home() {
         <img
           src={illustrationImg}
           alt="Imagem simbolizando perguntas e respostas"
-          />
+        />
         <strong>
           Crie salas de Q&amp;A ao vivo
         </strong>
@@ -51,32 +47,27 @@ export function Home() {
             src={logoImg}
             alt="Logo Letmeask"
           />
-          <button
-            className="create-room"
-            onClick={handleCreateRoom}
-          >
-            <img
-              src={googleIconImg}
-              alt="Logo do Google"
-            />
-              Crie sua sala com o Google
-          </button>
-          <div
-            className="separator"
-          >
-            ou entre em uma sala
-          </div>
+
+          <h2>Criar uma nova sala</h2>
+
           <form>
             <input
               type="text"
-              placeholder="Digite o código da sala"
+              placeholder="Nome da sala"
             />
             <Button
               type="submit"
             >
-              Entrar na sala
+              Criar sala
             </Button>
           </form>
+          <p>Quer entrar em uma sala existente? &nbsp;
+            <Link
+              to="/"
+            >
+               clique aqui
+            </Link>
+          </p>
         </div>
       </main>
     </div>
