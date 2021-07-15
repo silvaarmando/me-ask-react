@@ -226,7 +226,7 @@ The first feature was to create an application in firebase and create authentica
 >
   <img
     width="750px"
-    src="./screenReadme/file03.gif"
+    src="./screenReadme/giphy.gif"
   >
 </h1>
 
@@ -250,6 +250,55 @@ The original layout of the application was created by the UI Designer <a href="h
 
 <br
 />
+
+<h1
+  align="center"
+>
+  <a
+    href="https://pt-br.reactjs.org/"
+  >
+    <img
+      width="50px"
+      src="./screenReadme/react.svg"
+    >
+  </a>
+  &nbsp;
+  <a
+    href="https://www.typescriptlang.org/"
+  >
+    <img
+      width="50px"
+      src="./screenReadme/typescript.png"
+    >
+  </a>
+  &nbsp;
+  <a
+    href="https://yarnpkg.com/"
+  >
+    <img
+      width="50px"
+      src="./screenReadme/yarn.png"
+    >
+  </a>
+  &nbsp;
+  <a
+    href="https://jestjs.io/pt-BR/"
+  >
+    <img
+      width="60px"
+      src="./screenReadme/jest.png"
+    >
+  </a>
+  &nbsp;
+  <a
+    href="https://firebase.google.com/brand-guidelines"
+  >
+    <img
+      width="180px"
+      src="./screenReadme/firebase.png"
+    >
+  </a>
+</h1>
 
 <br
 />
