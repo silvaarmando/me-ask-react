@@ -313,3 +313,15 @@ The original layout of the application was created by the UI Designer <a href="h
 />
 
 ## About me
+
+<br
+/>
+
+<a href="https://github.com/franciscoarmando63">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/58279161?s=400&v=4" width="100px;" alt=""/>
+ <br />
+</a>
+<h3> Francisco Armando Silva</h3>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Francisco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-s-4023a41a7/)](https://www.linkedin.com/in/francisco-s-4023a41a7/) 
+[![Gmail Badge](https://img.shields.io/badge/-franciscoarmando636@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franciscoarmando636@gmail.com)](franciscoarmando636@gmail.com)
