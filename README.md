@@ -273,6 +273,15 @@ The original layout of the application was created by the UI Designer <a href="h
   </a>
   &nbsp;
   <a
+    href="https://sass-lang.com/"
+  >
+    <img
+      width="50px"
+      src="./screenReadme/sass.png"
+    >
+  </a>
+  &nbsp;
+  <a
     href="https://yarnpkg.com/"
   >
     <img
